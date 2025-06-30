@@ -1,5 +1,7 @@
 # FastSearch - macOS 文件搜索应用
 
+<img width="1030" alt="image" src="https://github.com/user-attachments/assets/4ecb35a5-ebd5-467d-8b5e-e1caf506c2d8" />
+
 ![FastSearch Logo](https://img.shields.io/badge/FastSearch-macOS-blue?style=for-the-badge&logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0-blue?style=for-the-badge)
